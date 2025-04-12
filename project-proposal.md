@@ -10,10 +10,12 @@ of rental properties (houses, condos, apartments, etc.).
 * (Stretch goal) Individuals interested in becoming lessees of an available property
 
 ## TECH STACK
-Front Ent (Web)
+Front End (Web)
 * React w/ Vite
+
 Backend
 * Node.js and Express.js
+
 Database
 * MongoDB
   * Store property information and lessee sensitive information
