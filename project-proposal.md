@@ -31,3 +31,4 @@ The property and lessee data for the purposes of this project will be manufactur
 properties, property management groups, or individuals.
 
 ## API
+Investigating service ticketing APIs similar to Atlassian JIRA.
