@@ -32,3 +32,4 @@ properties, property management groups, or individuals.
 
 ## API
 Investigating service ticketing APIs similar to Atlassian JIRA.
+* Atlassian Compass and Zendesk as potentials
